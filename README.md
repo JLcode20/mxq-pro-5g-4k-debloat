@@ -97,3 +97,4 @@ chmod +x restore.sh
 ## 📄 License
 MIT License. Free to use, modify, and share.
 # mxq-pro-5g-4k-debloat
+# mxq-pro-5g-4k-debloat
